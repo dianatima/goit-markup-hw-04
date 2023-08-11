@@ -656,7 +656,7 @@ a {
     padding: 0;
     line-height: 0;
     cursor: pointer;
-    transition: background-colo var(--transition-dur-and-func), border var(--transition-dur-and-func);
+    transition: background-color var(--transition-dur-and-func), border var(--transition-dur-and-func);
 }
 
 .close-btn:hover,
